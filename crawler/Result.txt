@@ -1,0 +1,42 @@
+ 
+1. Your seed urls i.e. urls in your first frontier
+
+	http://en.wikipedia.org/wiki/Climate_change
+	http://en.wikipedia.org/wiki/Future_sea_level
+	http://www.skepticalscience.com/sea-level-rise-predictions.htm
+	http://www.epa.gov/climatechange/science/future.html
+	
+    google search top 10 added to next frontier 
+	https://climate.nasa.gov/evidence/
+    	http://www.ipcc.ch/
+    	https://en.wikipedia.org/wiki/Climate_change
+    	https://www.theguardian.com/environment/climate-change
+    	https://www.takepart.com/flashcards/what-is-climate-change
+    	https://www.nytimes.com/section/climate
+    	https://www.ecowatch.com/climate-change/
+    	http://www.nationalgeographic.com/environment/climate-change/
+    	http://www.independent.co.uk/news/world/world-food-supplies-climate-change-international-trade-global-warming-chatham-house-chokepoints-a7808221.html
+    	http://www.un.org/sustainabledevelopment/climate-change-2
+
+2. Count of unique urls indexed individually
+    18580
+
+3. Time take to crawl
+    7 hours
+   
+4. Total disk space size of your crawl or ES index size if applicable for Individual crawl
+    3.68 GB
+
+5. Time taken to merge
+	merge 70 min
+	replica 90 min
+    
+6. Count of unique urls in Merged Index
+    58359
+
+7. Merged ES index size
+	11.6 GB
+
+
+
+

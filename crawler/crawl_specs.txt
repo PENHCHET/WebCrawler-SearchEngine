@@ -1,0 +1,481 @@
+Author: Qiuyuan Sophie
+Total time crawled:6.742395 hour
+Total waiting time:22.12023333333333 min
+number of web page crawled:20000
+number of domains:2201
+page with most valid in links: 1448
+comwattsupwiththatreferencepagesseaicepage
+page with most valid out links:567
+netpopulartechnology200910peerreviewedpaperssupportinghtml
+number of forbidden: 471
+https://www.google.com/search?client=safari&rls=en&q=CLIMATE CHANGE&ie=UTF-8&oe=UTF-8#q=CLIMATE CHANGE&safe=off&rls=en&tbm=nws
+https://en.wikipedia.org/w/index.php?title=Future_sea_level&oldid=783139635
+https://en.wikipedia.org/w/index.php?title=Climate_change&oldid=787979413
+http://newsvote.bbc.co.uk/hi/english/static/in_depth/sci_tech/2000/climate_change/
+http://www.arcus.org/search/seaiceoutlook/index.php
+http://www.gsnz.org.nz/info_page/evidence-global-warming-need-take-action-i-6.html
+https://en.wikinews.org/w/index.php?title=Category:Climate_change&oldid=3171711
+https://en.wikiquote.org/w/index.php?title=Global_warming&oldid=2265223
+https://commons.wikimedia.org/w/index.php?title=Category:Climate_change&oldid=142142583
+http://www.sourcewatch.org/index.php?title=Climate_change:_Resources&oldid=552090
+https://en.wikibooks.org/w/index.php?title=Historical_Geology/Sea_level_variations&oldid=3070212
+http://link.springer.com/article/10.1007/s10584-011-0176-8/fulltext.html#Sec7
+http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0384.1
+https://youtu.be/z1Q8FuAMZYI
+https://youtu.be/WHEyK2l1MeU
+https://youtu.be/fALBRB0IAe0
+https://youtu.be/3CJMtJek4pE
+https://en.wikipedia.org/w/index.php?title=Global_warming&oldid=788813201
+http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00636.1
+http://www.giss.nasa.gov/data/update/gistemp/2004/
+http://www.sourcewatch.org/index.php?title=Portal:Climate_Change&oldid=675918
+https://en.wikibooks.org/w/index.php?title=Climate_Change&oldid=3223167
+http://journals.ametsoc.org/doi/abs/10.1175/2008JCLI2472.1
+https://en.wikipedia.org/w/index.php?title=Intergovernmental_Panel_on_Climate_Change&oldid=788201750
+http://onlinelibrary.wiley.com/enhanced/doi/10.1002/2016JC012509
+http://click.linksynergy.com/fs-bin/click?id=g9YYVSAWPQI&offerid=127265.10000655&type=3&subid=0
+http://onlinelibrary.wiley.com/enhanced/doi/10.1002/2016GL072244
+http://www.bom.gov.au/cgi-bin/climate/cmb.cgi?page=map&variable=850t&vstatus=anomaly&period=month&area=global
+http://pubs.acs.org/doi/abs/10.1021/es504574v
+http://pubs.acs.org/doi/abs/10.1021/es505183e
+https://twitter.com/intent/tweet?url=http://pewrsr.ch/GCC2015&text=In the U.S., women, young people and those with lower incomes are most likely to voice concern about climate change
+https://youtu.be/bTO6bNhsHl4
+https://twitter.com/intent/tweet?url=http://pewrsr.ch/GCC2015&text=In nations with high carbon emissions per capita, publics are less likely to express strong climate change concern
+https://twitter.com/intent/tweet?url=http://pewrsr.ch/GCC2015&text=Half or more in 39 of 40 countries are concerned that climate change will harm them personally in their lifetime
+https://twitter.com/intent/tweet?url=http://bit.ly/Threats2015&text=Publics in 19 of 40 countries polled cite climate change as biggest worry, making it the most widespread concern
+http://www.northcarolinahealthnews.org/2014/04/14/sea-level-rise-threatens-public-health-infrastructure/
+https://myaccount.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=Oceans and Seas&topic_field1=des&topic1_check=y&retA=&retT=&cskey=
+https://myaccount.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=Global Warming&topic_field1=des&topic1_check=y&retA=&retT=&cskey=
+https://enjeuxenergies.wordpress.com/2015/10/26/california-wildfires-are-abrupt-climate-change-ecological-collapse-ecointernet-earth-blog/
+http://journals.ametsoc.org/doi/abs/10.1175/JCLI3587.1
+https://books.google.com/books?id=2xpIEPH7RW4C&pg=PA175
+http://moregrumbinescience.blogspot.com/search/label/sea ice
+http://moregrumbinescience.blogspot.com/search/label/climate change
+http://iopscience.iop.org/1748-9326/7/3/034011?fromSearchPage=true
+https://myaccount.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=Intergovernmental Panel on Climate Change&topic_field1=org&topic1_check=y&retA=&retT=&cskey=
+http://arjournals.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.37.091305.110100?cookieSet=1&journalCode=ecolsys
+http://moregrumbinescience.blogspot.com/search/label/sea level
+https://twitter.com/intent/tweet?text=Sea-level rise and world's largest naval base ... without the 'climate change' baggage.&via=CC_Yale&related=CC_Yale&url=https://www.yaleclimateconnections.org/2017/05/tidewater-sea-level-rise-minus-the-climate-change-baggage/
+https://enjeuxenergies.wordpress.com/2016/11/03/arctic-summer-sea-ice-to-disappear-with-2c-warming-study-says/
+http://books.google.com/books?id=Ww3DnCF_KZcC&pg=PA149&lpg=PA149&dq=1975 a reassessment of atmospheric pollution as a cause of "long term" changes of global temperature&source=web&ots=SzItRfOu0h&sig=zi1BSH06nnbexEXtAz-oxht1jRo#v=onepage&q=&f=false
+https://enjeuxenergies.wordpress.com/2016/05/02/science-into-agitprop-climate-change-is-strangling-our-oceans/
+http://www.dailytech.com/Article.aspx?newsid=13679&red=y#379264
+https://en.wikipedia.org/w/index.php?title=Economic_impacts_of_climate_change&oldid=771486050
+https://en.wikipedia.org/w/index.php?title=Global_Climate_Coalition&oldid=764325469
+https://enjeuxenergies.wordpress.com/2016/09/16/arctic-sea-ice-summer-minimum-in-2016-joint-second-lowest-on-record/
+http://www.bom.gov.au/cgi-bin/climate/change/trendmaps.cgi?map=rain&area=aus&season=0112&period=1950
+http://www.bom.gov.au/cgi-bin/climate/change/trendmaps.cgi?map=rain&area=aus&season=0112&period=1900
+https://cleantechnica.com/tag/effects-of-climate-change/
+https://cleantechnica.com/tag/climate-change-deaths/
+http://www.info.umu.se/Nyheter/PressmeddelandeEng.aspx?id=3115
+https://www.ncdc.noaa.gov/cag/time-series/global
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/j.1365-2486.2007.01418.x
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/j.1365-2486.2007.01396.x
+http://books.google.com/books?id=POsAAAAAYAAJ&pg=PA274&dq="2000 square leagues of ice with which the greenland seas between the latitudes"
+http://www.theguardian.com/environment/blog/2014/jun/06/97-consensus-global-warming/print
+http://libertarianalliance.wordpress.com/2008/11/17/good-analysis-of-the-current-scenario-regarding-global-warming-and-the-skeptics/
+http://www.mysanantonio.com/?controllerName=search&action=search&channel=life/life_columnists/forrest_mims&search=1&inlineLink=1&query="Intergovernmental Panel on Climate Change"
+https://twitter.com/intent/tweet?text=What's causing the flooding in Miami: weak infrastructure ... or impacts of climate change?&via=CC_Yale&related=CC_Yale&url=https://www.yaleclimateconnections.org/2017/02/the-herald-of-sea-level-rise/
+https://en.wikipedia.org/w/index.php?title=2015_United_Nations_Climate_Change_Conference&oldid=788571796
+http://journals.ametsoc.org/doi/abs/10.1175/2010BAMS2921.1
+http://www.theguardian.com/environment/climate-consensus-97-per-cent/2014/feb/21/nazis-climate-contrarian-credibility-gap?commentpage=1
+http://images.remss.com/data/msu/graphics/TLT/time_series/RSS_TS_channel_TLT_Global_Land_And_Sea_v03_3.txt
+http://www.tandfonline.com/doi/abs/10.1080/09644019508414196
+http://www.tandfonline.com/doi/abs/10.1080/09644019508414180
+http://www.cmar.csiro.au/sealevel/sl_hist_last_15.html
+http://books.google.co.nz/books?id=DcXZF9vogtkC&pg=PA121&dq=sea level rise satellite measurements&hl=en&sa=X&ei=c4BoUtXJA82fiAeX0IDoCw&ved=0CDgQ6AEwAA#v=onepage&q=sea level rise satellite measurements&f=false
+http://onlinelibrary.wiley.com/enhanced/doi/10.1029/2008GL037020
+http://rankexploits.com/musings/2011/update-to-a-first-order-estimate-of-future-sea-level-rise/
+https://youtu.be/QowL2BiGK7o?t=50m34s
+https://www.google.co.uk/search?q=what is the perfect global temperature&rlz=1C1CHFX_en-GBGB547GB547&oq=what is the perfect global temperature&aqs=chrome
+http://www.cmar.csiro.au/sealevel/sl_hist_few_hundred.html
+http://www.cmar.csiro.au/sealevel
+https://en.wikipedia.org/w/index.php?title=Sea_level_rise&oldid=788781054
+http://onlinelibrary.wiley.com/enhanced/doi/10.1002/grl.50425
+https://www.google.com/search?output=search&sclient=psy-ab&q=sea level rise, Australia, floods
+http://www.annualreviews.org/doi/abs/10.1146/annurev.fl.26.010194.002033
+http://pubs.giss.nasa.gov/cgi-bin/abstract.cgi?id=wa03100m
+http://journals.ametsoc.org/doi/full/10.1175/JCLI4250.1
+http://pubs.acs.org/doi/abs/10.1021/ef800581r
+http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNEhEvDl9Nc_oTN-yksg2TctY-EBWw&url=http://science.time.com/2013/01/08/2012-was-the-hottest-year-in-u-s-history-and-yes-its-climate-change/
+http://www.osti.gov/energycitations/product.biblio.jsp?osti_id=486403
+http://www.tandfonline.com/doi/abs/10.1080/10020070612331343185
+http://www.tandfonline.com/doi/abs/10.2747/0272-3646.28.2.97?journalCode=tphy20
+http://www.tandfonline.com/doi/abs/10.1080/15567030600968648
+http://pubs.acs.org/subscribe/archive/ci/31/i05/html/05vp.html
+http://www.bioone.org/doi/full/10.1641/B570306
+http://www.osti.gov/energycitations/product.biblio.jsp?osti_id=7073612
+http://www.osti.gov/energycitations/product.biblio.jsp?osti_id=7003582
+http://scienceblogs.com/significantfigures/index.php/2017/01/17/joint-statements-on-climate-change-from-national-academies-of-science-around-the-world/
+http://thingsbreak.wordpress.com/2009/09/10/of-moles-and-whacking-climate-models-didnt-predict-this-lack-of-warming/
+http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00473.1
+http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNE0-umTK0iwYfgfbz64SryjVwaj9w&url=http://www.nytimes.com/2013/01/22/opinion/global/the-climate-change-endgame.html
+http://www.tandfonline.com/doi/abs/10.1080/00908310390142389
+http://scholar.google.com/scholar?cites=13117067661681706587
+http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNG0z33kt_vMlo3I5vNXnVVLjhejjQ&url=http://www.forbes.com/sites/larrybell/2013/01/22/the-u-n-s-global-warming-war-on-capitalism-an-important-history-lesson-2/
+http://www.tandfonline.com/doi/abs/10.1080/714000624
+http://www.osti.gov/energycitations/product.biblio.jsp?osti_id=7153163
+http://rankexploits.com/musings/2008/global-warming-will-cause-earth-to-explode-cbs-reports/
+http://powerandcontrol.blogspot.com/search/label/Global Warming
+http://powerandcontrol.blogspot.com/search/label/Climate Change Contradictions
+http://powerandcontrol.blogspot.com/search/label/Climate Change
+http://www.bioone.org/doi/abs/10.1579/0044-7447-30.6.349
+https://youtu.be/QowL2BiGK7o?t=54m6s
+http://www.populartechnology.net/search/label/Global Warming
+http://scholar.google.com/scholar?cites=11274312109556618867
+http://www.tandfonline.com/doi/abs/10.1080/00207239008710583
+http://www.tandfonline.com/doi/abs/10.1080/01431161.2010.517803
+http://www.tandfonline.com/doi/abs/10.2747/0272-3646.28.2.97
+http://www.tandfonline.com/doi/abs/10.1080/15567030903515013
+http://climateconomysociety.blogspot.com/search/label/ocean warming
+http://climateconomysociety.blogspot.com/search/label/global warming pause
+http://climateconomysociety.blogspot.com/search/label/global warming stop
+http://www.spacecenter.dk/research/sun-climate/Scientific work and publications/svensmark_96_variations of.pdf
+http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNEi_3Yw08vaALUMZOkNhAC1_y1nOw&url=http://fabiusmaximus.com/2013/01/09/global-warming-alaska-47683/
+http://onlinelibrary.wiley.com/enhanced/doi/10.1029/2009GL037274
+http://www.fhwa.dot.gov/environment/climate_change/adaptation/publications/integrating_climate_change/index.cfm
+https://www.google.com/search?hl=en&gl=us&tbm=nws&authuser=0&q=nasa climate trump walker&oq=nasa climate trump walker&gs_l=news-cc.3..43j43i53.9766.13722.0.13810.25.8.0.17.17.1.157.907.0j8.8.0...0.0...1ac.1.hZf8b4bDNbw#hl=en&gl=us&authuser=0&tbm=nws&q=nasa climate trump walker november 2016
+https://enjeuxenergies.wordpress.com/2015/12/17/climate-models-versus-climate-reality/
+https://en.wikipedia.org/w/index.php?title=United_Nations_Framework_Convention_on_Climate_Change&oldid=788697588
+https://youtu.be/qN5L2q6hfWo?t=5m14s
+http://www.arcus.org/search/seaiceoutlook
+https://commons.wikimedia.org/w/index.php?title=Category:2015_United_Nations_Climate_Change_Conference&oldid=181546215
+https://www.theguardian.com/environment/2014/apr/13/un-climate-change-report-on-how-to-cut-emissions-live-coverage?commentpage=1#block-534a8801e4b0f08e19b92386
+https://en.wikipedia.org/w/index.php?title=Sea_level&oldid=784351637
+http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNGRohLWUhQ5OF1X3LjgGfuOeEzBDw&url=http://www.care2.com/causes/can-climate-change-action-and-evangelicals-coexist.html
+http://climateconomysociety.blogspot.com/search/label/climate change
+http://climateconomysociety.blogspot.com/search/label/global temperature trend
+http://climateconomysociety.blogspot.com/search/label/Arctic sea ice
+http://climateconomysociety.blogspot.com/search/label/global warming
+https://www.eea.europa.eu/@@search?Subject:list=climate change impacts
+http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNGvOFjd0_9xxY0B6wvrf1qvPHu64g&url=http://fabiusmaximus.com/2012/10/14/climate-global-warming-44028/
+http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNFaljNh_HbmL_zFLhrJJJ1j8DKoZA&url=http://www.orlandosentinel.com/news/opinion/todaysbuzz/os-todays-buzz-record-2012-heat-global-warming-011013,0,4270685.story
+http://cca.eionet.europa.eu
+http://onlinelibrary.wiley.com/enhanced/doi/10.1029/2005GL023942
+http://acm.eionet.europa.eu
+http://www.emc.ncep.noaa.gov/research/cmb/sst_analysis
+http://www.arcus.org/search/seaiceoutlook/2012/august
+http://www.zazzle.com/global_warming_the_religion_of_the_stupid_car_bumper_sticker-128816875095858202?rf=238518351914519699
+http://www.cmar.csiro.au/sealevel/N_a_altimetry_gmsl_refined.html
+http://onlinelibrary.wiley.com/enhanced/doi/10.1029/2012GL052952
+http://timesmachine.nytimes.com/timesmachine/1969/02/20/77442757.html?pageNumber=20
+http://www.the-cryosphere-discuss.net/5/1311/2011/tcd-5-1311-2011.html
+http://onlinelibrary.wiley.com/enhanced/doi/10.1002/joc.992
+https://youtu.be/QowL2BiGK7o
+http://onlinelibrary.wiley.com/enhanced/doi/10.1029/92GL00126
+http://onlinelibrary.wiley.com/enhanced/doi/10.1029/2000JC900159
+http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00007.1
+https://youtu.be/_u81qXOYfKg
+https://youtu.be/tYw6YMJd-tw
+http://www.ebay.com/ctg/Sea-Level-Change-National-Research-Council-Staff-1990-Hardcover-/90456
+http://www.tandfonline.com/doi/abs/10.1080/02626667.2011.621895
+http://www.heliogenic.net/
+http://www.arcus.org/search/siwo
+https://www.eea.europa.eu/@@search?Subject:list=climatechange
+http://onlinelibrary.wiley.com/enhanced/doi/10.1029/2010GL046484
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=global warming accelerating&oq=global warming accelerating&aqs=chrome..69i57j0l5.3327j0j4
+https://www.eea.europa.eu/@@search?Subject:list=climate change mitigation
+http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNH5EITC0IudUMiVILezZ-2GejSfpA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52779545232043&ei=w0JZWajCK42DqQKUmpigAg&url=http://www.climatecentral.org/news/warming-tipped-june-heat-wave-21585
+http://www.americanthinker.com/article/2013/08/global_warming_as_faith.html
+https://www.eea.europa.eu/@@search?Subject:list=climate change and health
+http://onlinelibrary.wiley.com/enhanced/doi/10.1002/wcc.189
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/j.1752-1688.1999.tb04224.x
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/j.1752-1688.1999.tb04222.x
+https://en.wikipedia.org/w/index.php?title=Sea_ice&oldid=786852059
+https://books.google.com/books?id=9S55O6WzuL8C&pg=PA2
+https://en.wikipedia.org/w/index.php?title=Sea_surface_temperature&oldid=783115826
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/j.1365-2486.2009.01948.x
+http://tomnelson.blogspot.com/search/label/church_of_global_warming
+http://tomnelson.blogspot.com/search/label/npr_global_warming_debate
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/j.1468-0270.2008.00872.x
+https://books.google.com/?id=OeZ4e5MwRigC&pg=PA258&dq=upwelling offshore wind sea surface temperature book#v=onepage&q=upwelling offshore wind sea surface temperature book&f=false
+https://commons.wikimedia.org/w/index.php?title=Category:United_Nations_Framework_Convention_on_Climate_Change&oldid=141496303
+http://carbonbrief.us2.list-manage.com/track/click?u=39b25e6afa81d7ffc0e925ee9&id=164076e014&e=462b8c39c7
+http://worldcomplex.blogspot.ca/search/label/climate change
+http://onlinelibrary.wiley.com/enhanced/doi/10.1029/2012GL052843
+https://youtu.be/h37hxpSgXyM
+https://youtu.be/KTD_0X68ZSA?t=19m23s
+https://youtu.be/RkdbSxyXftc
+http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00006.1
+https://youtu.be/4rLRObEhC4I
+https://youtu.be/52Mx0_8YEtg
+http://books.google.com/books?id=yt0eAYwqn-QC&printsec=frontcover&dq=sea level&hl=en&ei=hvFhTNTeMIP68Aa6krT6CQ&sa=X&oi=book_result&ct=result&resnum=7&ved=0CFMQ6AEwBg#v=onepage&q&f=false
+http://www.arcus.org/search/seaiceoutlook/2013/june
+https://youtu.be/MDCCvOv3qZY
+https://youtu.be/oMmZF8gB7Gs
+https://youtu.be/BB0aFPXr4n4
+https://youtu.be/f-28qNd6ass
+https://www.eea.europa.eu/@@search?Subject:list=climate change adaptation
+https://www.eea.europa.eu/@@search?Subject:list=climate change
+https://youtu.be/TCy_UOjEir0
+http://onlinelibrary.wiley.com/enhanced/doi/10.1002/env.2133
+http://track.vuelio.uk.com/z.z?l=aHR0cDovL3d3dy5yZWFkaW5nLmFjLnVrL25ld3MtYW5kLWV2ZW50cy9yZWxlYXNlcy9QUjM4NjIuYXNweA==&r=7776609961&d=3082404&p=1&t=h&h=a5f84ec842cd297f92ba46944b1c7f54
+http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNHZR-7aRFyN1hXqu51W97kztP_rCw&url=http://www.guardian.co.uk/environment/interactive/2013/may/14/alaska-politics-climate-change-sarah-palin
+http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0430.1
+https://www.google.at/search?client=ms-android-samsung&ei=7pYJWam9BsijwALdpY6wBA&q=  North sea de grote    manntränke&oq=  North sea de grote    manntränke&gs_l=mobile-gws-serp
+https://twitter.com/intent/tweet?text=Facing rising seas, Miami is 'just a big flat limestone pancake.'&via=CC_Yale&related=CC_Yale&url=https://www.yaleclimateconnections.org/2016/12/as-seas-rise-miami-development-continues-unabated/
+http://news.google.com/news?q=global-warming
+http://news.google.com/news/url?sa=t&fd=R&usg=AFQjCNFPq1bGoRDaQiH2eZJDomYRTLV_EQ&url=http://news.yahoo.com/climate-change-claim-san-francisco-marshes-222740955.html
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/gcb.13135
+http://news.scotsman.com/uk.cfm?id=634922007
+https://en.wikipedia.org/w/index.php?title=The_Great_Global_Warming_Swindle&oldid=774157973
+http://google.com/search?q=cache:IeEiaoU5hZAJ:www.aawv.net/AAWVPositionClimateChangeFinal.doc AAWV Position Statements wildlife diseases and wildlife health&hl=en&ct=clnk&cd=1&gl=us
+https://en.wikipedia.org/w/index.php?title=Scientific_opinion_on_climate_change&oldid=788586282
+https://books.google.com/books?id=PXJIqCkb7YIC&lpg=PP1&pg=PA65#v=onepage&q&f=false
+https://enjeuxenergies.wordpress.com/2017/04/07/a-beneficial-climate-change-hypothesis/
+http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNH9MzUFtGRBrZtz_99Pqt060-DuPw&clid=c3a7d30bb8a4878e06b80cf16b898331&ei=DARbWeiPJ6KrqgLw2LGgAw&url=http://www.salon.com/2017/07/03/global-warming-tipped-scales-in-europes-heat-wave_partner/
+http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNE3SkNZfHdwCw80A0YSipdIEDy_5Q&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52779545859613&ei=RqxYWbDdL8XsqQKY-IeoBg&url=http://elitedaily.com/wellness/ways-climate-change-definitely-affecting-life-according-science/2007903/
+http://factsnotfantasy.blogspot.com/search/label/global warming
+http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNES7eTPswxkaDlGntP0lXrAprquDw&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52779545859613&ei=RqxYWbDdL8XsqQKY-IeoBg&url=https://sputniknews.com/radio_the_bradcast/201706301055117207-the-science-behind-global-warming-is-very-clear/
+http://news.google.com/news/url?sa=t&fd=R&ct2=us&usg=AFQjCNFi6_Oo9fKbEMvCTpBzGvloB7IKrA&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52779545859613&ei=RqxYWbDdL8XsqQKY-IeoBg&url=http://www.weatherforddemocrat.com/opinion/letters_to_the_editor/letter-global-warming-requires-attention-really/article_068d9ad1-a062-55af-b253-23299a9eb734.html
+https://commons.wikimedia.org/w/index.php?title=Category:Sea_level&oldid=171403582
+https://commons.wikimedia.org/w/index.php?title=File:Post-Glacial_Sea_Level.png&oldid=246595257
+https://en.wikipedia.org/w/index.php?title=Runaway_climate_change&oldid=776345569
+http://specialprojects.myajc.com/rising-tide/
+http://www.reddit.com/r/climate/comments/znwjg/before_the_industrial_revolution_changes_in_solar/c672pkw
+http://hockeyschtick.blogspot.com/search?q=arctic sea ice
+http://www.google.com/imgres?q=exxon sea level curve&hl=en&safe=images&sa=X&tbo=d&biw=998&bih=560&tbm=isch&tbnid=0I4WcalAl1L57M:&imgrefurl=http://www.theoildrum.com/node/5129&docid=6dQsZMS3jWWNYM&imgurl=http://www.theoildrum.com/uploads/12/Post_Glacial_Sea_Level_present.jpg&w=692&h=476&ei=IqnlUI78AtP82gWV9oHwAw&zoom=1&iact=hc&vpx=685&vpy=192&dur=546&hovh=186&hovw=271&tx=158&ty=87&sig=114091406124388918232&page=1&tbnh=129&tbnw=193&start=0&ndsp=18&ved=1t:429,r:11,s:0,i:123
+http://www.ocean-sci-discuss.net/11/2029/2014/osd-11-2029-2014.html
+https://commons.wikimedia.org/w/index.php?title=File:Recent_Sea_Level_Rise.png&oldid=246595249
+https://www.google.com/imgres?imgurl=http://www.drroyspencer.com/wp-content/uploads/CMIP5-90-models-global-Tsfc-vs-obs-thru-2013.png&imgrefurl=http://thefederalist.com/2014/05/06/climate-change-is-real-too-bad-accurate-climate-models-arent/&docid=TjJNwRJbIaAxCM&tbnid=TV0DAeOLK9eHAM:&w=1920&h=1728&bih=764&biw=1536&ved=0ahUKEwjmt72YrYXNAhXBwiYKHSHmAYcQMwgeKAEwAQ&iact=mrc&uact=8
+http://ams.allenpress.com/perlserv/?request=get-abstract&issn=1520-0477&volume=79&page=19
+http://touch.latimes.com/#section/1136/article/p2p-91168468/
+https://enjeuxenergies.wordpress.com/2016/05/22/another-antarctic-sea-level-rise-false-alarm/
+http://youtu.be/ZYaubXBfVqo
+https://scholar.google.de/scholar?as_ylo=2016&q=sea level rise&hl=de&as_sdt=0,5
+https://www.bing.com/images/search?view=detailV2&ccid=/RcpS0TS&id=7A1187C60FA85F6AD7752B6D48B8390686A97CF0&thid=OIP._RcpS0TSdY5GlR59lEXgIwEsDM&q=Historical sea level rise&simid=607986599764430195&selectedIndex=0&ajaxhist=0
+http://sowellslawblog.blogspot.com/search/label/sea level rise
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/geoj.12127/
+http://www.guardian.co.uk/environment/2009/mar/11/amazon-global-warming-trees/print
+http://www.google.com/search?q="Deadly heat waves, home-wrecking hurricanes"&hl=en&gbv=2&oq=&gs_l=
+http://truthbehindthescience.blogspot.com/search/label/Enceladus ocean 'must be global'
+https://commons.wikimedia.org/w/index.php?title=File:Holocene_Sea_Level.png&oldid=246595263
+http://www.reddit.com/r/climate/comments/znwjg/before_the_industrial_revolution_changes_in_solar/c6710x0
+http://petesplace-peter.blogspot.com/search/label/global warming
+http://www.guardian.co.uk/environment/blog/2012/feb/27/michael-mann-climate-change-live-q-and-a?commentpage=last#end-of-comments
+http://front.math.ucdavis.edu/0707.1276
+http://network.nationalpost.com/NP/blogs/fpcomment/archive/2010/05/03/lawrence-solomon-arctic-ice-sets-records-in-april-could-auger-global-cooling.aspx
+http://www.brennerbrief.com/perhaps-the-current-climate-change-is-no-more-than-winter/
+http://www.arcus.org/search/seaiceoutlook/2012/july
+http://youtu.be/3w_ydC7t7cg
+http://www.bom.gov.au/announcements/media_releases/climate/change/20130103.shtml
+http://www.dailymotion.com/relevance/search/"global+warming+swindle"/video/x1xrpe_part05-la-grde-arnaque-du-rechauffc
+http://www.dailymotion.com/relevance/search/"global+warming+swindle"/video/x1xsb4_part06-la-grde-arnaque-du-rechauffc
+http://www.dailymotion.com/relevance/search/"global+warming+swindle"/video/x1xqo1_part04-la-grde-arnaque-du-rechauffc
+http://www.veoh.com/videos/v62952764DmphdPC
+http://www.dailymotion.com/relevance/search/"global+warming+swindle"/video/x1xn84_part01-la-grde-arnaque-du-rechauffc
+http://www.dailymotion.com/relevance/search/"global+warming+swindle"/video/x1xnpy_part02-la-grde-arnaque-du-rechauffc
+http://www.google.com/search?hl=en&q=global warming rate of&btnG=Search
+https://books.google.com/books?id=Chb14jomm08C&pg=PA133&lpg=PA133&dq=air temperature immediately above the ocean&source=bl&ots=fzhJPVsmAi&sig=NQxcwvxhVfchANJTBYFFoNJ1ZlQ&hl=en&sa=X&ved=0ahUKEwiCpqiX-fDKAhXM4yYKHeu-BVUQ6AEILzAD#v=onepage&q=air temperature immediately above the ocean&f=false
+http://theendofthemystery.blogspot.co.uk/search/label/global warming
+https://books.google.com/books?id=xJwub7E6VDcC&q=sea ice dynamics&source=gbs_word_cloud_r&cad=5
+https://books.google.com/books?id=xJwub7E6VDcC&q=sea ice model&source=gbs_word_cloud_r&cad=5
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/j.1539-6924.2005.00695.x
+https://commons.wikimedia.org/w/index.php?title=Category:Sea_ice&oldid=246049447
+http://rankexploits.com/musings/2008/sea-ice-bets-when-will-we-know-who-won/
+http://annualreviews.org/doi/pdf/10.1146/annurev.phyto.37.1.399
+https://en.wikipedia.org/w/index.php?title=Climate_change_and_agriculture&oldid=784968277
+https://books.google.com/books?id=CrtoNFTuPwwC&pg=PA169
+https://en.wikipedia.org/w/index.php?title=List_of_scientists_opposing_the_mainstream_scientific_assessment_of_global_warming&oldid=788946856
+https://books.google.com/books?id=JihhbdpO-yoC&pg=PA151
+http://thegwpf.us4.list-manage.com/track/click?u=c920274f2a364603849bbb505&id=b59c13f9a7&e=c1a146df99
+http://www.arcus.org/search/seaiceoutlook/2010/june
+http://www.cmar.csiro.au/sealevel/index.html
+https://en.wikipedia.org/w/index.php?title=Global_warming_hiatus&oldid=788393981
+https://www.youtube.com/results?search_query=RUSSIAN NUCLEAR POWERED ICE BREAKER SHIP 50 LET &oq=RUSSIAN NUCLEAR POWERED ICE BREAKER SHIP 50 LET &gs_l=youtube.3
+http://www.ncdc.noaa.gov/paleo/pubs/alley2000/alley2000.gif
+http://translate.google.com/translate?hl=en&sl=de&u=http://www.haz.de/Hannover/Aus-der-Stadt/Uebersicht/Region-Hannover-legt-einen-Zwischenbericht-zum-Klima-vor&prev=search
+http://northstarliberty.blogspot.com/search/label/global warming
+https://www.bing.com/images/search?view=detailV2&ccid=NPIWH3VZ&id=797EFEBE0A44D6A8C538A07C87624B4B056D5A23&thid=OIP.NPIWH3VZ8jip9HKnmfeSnQEgDY&q=Current Sea Surface Temperature Anomalies&simid=608000253443313057&selectedIndex=0&ajaxhist=0
+https://youtu.be/bRcu-ysocX4?t=53m48s
+http://www.dailymotion.com/relevance/search/"global+warming+swindle"/video/x1xqey_part03-la-grde-arnaque-du-rechauffc
+http://www.dailymotion.com/relevance/search/global+warming/video/xoo7a_global-warming-the-debate-continues
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/j.1539-6924.2005.00693.x
+http://theendofthemystery.blogspot.com/search/label/global warming
+http://onlinelibrary.wiley.com/enhanced/doi/10.1002/grl.50541
+http://onlinelibrary.wiley.com/enhanced/doi/10.1002/grl.50420
+http://accordingtocoop.blogspot.com/search/label/Global Warming
+http://members.shaw.ca/sch25/FOS/Climate_Change_Science.html
+https://en.wikipedia.org/w/index.php?title=Red_Sea–Dead_Sea_Water_Conveyance&oldid=781261805
+http://scholar.google.com/scholar?hl=en&q=phytoplankton ice loss chukchi sea
+http://www.annualreviews.org/doi/abs/10.1146/annurev-earth-042711-105345?journalCode=earth
+http://webcache.googleusercontent.com/search?q=cache:c8nEC8bKkd4J:www.rasmussenreports.com/public_content/politics/current_events/environment_energy/23_fear_global_warming_will_end_world_soon
+https://www.ncei.noaa.gov/data/sea-surface-temperature-optimum-interpolation/access/
+http://sowellslawblog.blogspot.com/search/label/sea level
+http://hockeyschtick.blogspot.com/search?q="hot spot"
+https://books.google.com/books?id=NPUBsNEphrQC&pg=PA21
+http://data.giss.nasa.gov/modelE/transient/climsim.html
+http://stickmanscorral.blogspot.com/search/label/Climate Change
+http://translate.googleusercontent.com/translate_c?depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.com&sl=auto&tl=en&u=http://www.awi.de/fileadmin/user_upload/News/Background/IPCC_AR5_2013/Factsheets/AWI_Factsheet_Meereis.pdf&usg=ALkJrhgQx-l5xWGjssBimG5lS9dK5jHGAg
+http://scienceblogs.com/significantfigures/index.php/2013/06/10/syria-water-climate-change-and-violent-conflict/
+http://rankexploits.com/musings/2010/sea-ice-weekly-average-summer-minimum-longish-range-forecast/
+http://us4.campaign-archive2.com/?u=c920274f2a364603849bbb505&id=513ddf56cb
+http://petesplace-peter.blogspot.com/search/label/global warming skeptics
+http://ilikai.soest.hawaii.edu/uhslc/htmld/0060A.html
+http://t.co/TIbId6BIcp
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/j.1365-2486.2012.02736.x
+http://www.google.at/search?biw=360&bih=264&ei=XxySV8G2IILYgAb46YSQAw&q=estimated number of shipwrecks in mediterranean sea since beginning of navigation &oq=estimated number of shipwrecks in mediterranean sea since beginning of navigation &gs_l=mobile-gws-serp.12
+http://hockeyschtick.blogspot.com/search?q="arctic sea ice"
+http://www.clim-past-discuss.net/9/1/2013/cpd-9-1-2013.html
+https://www.google.com/search?tbo=p&tbm=bks&q=subject:"Science / Global Warming & Climate Change"&source=gbs_metadata_r&cad=9
+https://www.google.at/search?q=swiss fighting climate change&oq=swiss fighting climate change&aqs=chrome
+http://search.time.com/results.html?D=global cooling ice age&sid=12D413317EF9&Ntt=global cooling ice age&Ntk=WithBody2009&Ntx=mode matchallpartial+snip+p_body:25&Ns=p_date_range
+https://enjeuxenergies.wordpress.com/2016/05/03/climate-code-red-arctic-sea-ice-is-falling-off-a-cliff-and-it-may-not-survive-the-summer/
+http://impactofcc.blogspot.com/search/label/global sea level
+http://www.sciencedirect.com/science/article/pii/S0277379113004162?np=y
+http://ipcc.wikia.com/wiki/152.4.3_Global_Combined_Land_and_Sea_Surface_Temperature?oldid=4760
+http://t.co/xbXm4QbUoc
+https://t.co/eW8LpDj1b3
+http://iopscience.iop.org/1748-9326/7/4/044035?fromSearchPage=true
+http://www.climatedepot.com/wp-admin/post.php?post=51972&action=edit
+https://books.google.com/books?id=exvuVXd14M0C&q=sea level rise&source=gbs_word_cloud_r&cad=5
+http://twentysixteenisstrange.blogspot.com/search/label/Sea Level Rise
+https://books.google.com/books?id=B-DS4P_J8KUC&pg=PA775&lpg=PA775&dq=.  Reduction of the atmospheric concentration of methane as a strategic response option to global climate change&source=bl&ots=JUnGp_sN_T&sig=C6pI_4wsyInwZ9RCzPkvnPPciH8&hl=en&sa=X&ved=0ahUKEwjUifWU-t7LAhUO8mMKHbI7BV0Q6AEIHDAA
+https://www.ncdc.noaa.gov/snow-and-ice/extent/sea-ice/G/4
+http://onlinelibrary.wiley.com/enhanced/doi/10.1029/2010GL044397
+http://www.google.com/imgres?imgurl=http://www.windows2universe.org/earth/Atmosphere/images/earth_rad_budget_kiehl_trenberth_1997_big.gif&imgrefurl=http://www.windows2universe.org/earth/climate/warming_clouds_albedo_feedback.html&h=456&w=664&sz=40&tbnid=khMQlXF5TEG-vM:&tbnh=95&tbnw=138&prev=/images?q=trenberth+earths+energy+flux+diagram&zoom=1&q=trenberth earths energy flux diagram&hl=en&usg=__a9nDZ3klcoNaBuYYmmKnFmQuE0w=&sa=X&ei=5vAsTYCRD4K8lQeu3fC6Cg&ved=0CBsQ9QEwAA
+http://books.google.com/books?id=DcXZF9vogtkC&pg=PA60&lpg=PA60&dq=Amsterdam sea level 1.5 mm year&source=bl&ots=Yhhn5foHpN&sig=rvIIke0luHll2Dl5RBBsd9uxEkk&hl=en&sa=X&ei=yJd6Ua3dFqrpiwLw8IDQBQ&ved=0CDwQ6AEwAg#v=onepage&q=Amsterdam sea level 1.5 mm year&f=false
+http://onlinelibrary.wiley.com/wol1/doi/10.1002/2016GL070526/abstract
+https://enjeuxenergies.wordpress.com/2016/05/03/arctic-sea-ice-is-falling-off-a-cliff-and-it-may-not-survive-the-summer-robertscribbler/
+http://www.wolframalpha.com/input/?i=global climate studies from 1990 to 2012
+http://ilikai.soest.hawaii.edu/uhslc/jasl.html
+http://www.tandfonline.com/doi/full/10.1080/02626667.2013.857411
+http://onlinelibrary.wiley.com/enhanced/doi/10.1029/2009GL040217
+http://petesplace-peter.blogspot.com/search/label/global warming book collection
+http://petesplace-peter.blogspot.com/search/label/fallacies of global warming
+http://petesplace-peter.blogspot.com/search/label/Manhattan Declaration on Climate Change
+http://petesplace-peter.blogspot.com/search/label/global climate models
+http://nsidc.org/cgi-bin/bist/bist.pl?config=seaice_extent_trends&submit=Go!
+http://theclimatescum.blogspot.com/search/label/arctic sea ice
+http://impactofcc.blogspot.com/search/label/Garnaut Climate Change Review
+http://impactofcc.blogspot.com/search/label/supposed sea-rise
+http://impactofcc.blogspot.com/search/label/“climate change”
+http://impactofcc.blogspot.com/search/label/Climate Change Act
+http://impactofcc.blogspot.com/search/label/Global Warming Policy Foundation
+http://impactofcc.blogspot.com/search/label/climate change debate
+http://impactofcc.blogspot.com/search/label/rising seas
+http://impactofcc.blogspot.com/search/label/climate change
+http://impactofcc.blogspot.com/search/label/Department of Climate Change
+http://impactofcc.blogspot.com/search/label/Antony Jay Global Warming Policy Foundation
+http://petesplace-peter.blogspot.com/search/label/climate change
+http://petesplace-peter.blogspot.com/search/label/global warming lie
+http://columbia.us1.list-manage.com/track/click?u=0ebaeb14fdbf5dc65289113c1&id=0d9f46c3f6&e=a87847abd1
+http://petesplace-peter.blogspot.com/search/label/man-caused global warming
+http://hockeyschtick.blogspot.com/search?q=hiroshima
+http://www.cmar.csiro.au/sealevel/sl_data_cmar.html
+http://www.philosophersbeard.org/search/label/climate change
+http://www.google.com/search?q=global temperature 1940s 1970s particulates&start=0
+http://petesplace-peter.blogspot.com/search/label/Arctic sea ice
+http://petesplace-peter.blogspot.com/search/label/Global Warming: A Technical Guide For The Layperson
+http://petesplace-peter.blogspot.com/search/label/blame global warming
+https://books.google.com/books?id=zcr3WJ4wP10C&printsec=frontcover&vq="Historical Perspectives on Climate Change"&source=gbs_citations_module_r&cad=7
+https://books.google.com/books?id=09RtcSCGv7gC&q=climate change&source=gbs_word_cloud_r&cad=5
+https://books.google.com/books?id=09RtcSCGv7gC&q=global warming&source=gbs_word_cloud_r&cad=5
+https://books.google.com/books?id=09RtcSCGv7gC&q=global change&source=gbs_word_cloud_r&cad=5
+http://t.co/BefbAQZPuJ
+http://unspunamerica.blogspot.com/search/label/"Global Warming"
+http://columbia.us1.list-manage.com/track/click?u=0ebaeb14fdbf5dc65289113c1&id=a1cb311aa3&e=1e1fe6a854
+http://www.resistancemedia.org/search/label/Climate Change
+http://www.resistancemedia.org/search/label/Global Warming
+http://news.scotsman.com/politics/Call-to--dub-climate.4324444.jp
+https://twitter.com/search?q=Zack Labe&src=typd
+http://click.icptrack.com/icp/relay.php?r=5325282&msgid=71883&act=WITA&c=174876&admin=0&destination=http://www.nypost.com/seven/12262007/postopinion/opedcolumnists/ahnulds_folly_230375.htm
+https://en.wikipedia.org/w/index.php?title=Permanent_Service_for_Mean_Sea_Level&oldid=778253568
+https://enjeuxenergies.wordpress.com/2015/12/21/busting-or-not-the-mid-20th-century-global-warming-hiatus/
+http://petesplace-peter.blogspot.com/search/label/Jr. global temperatures
+http://www.swissre.com/search/?searchterm=scenarios for climate change&searchterm=scenarios+for+climate+change
+http://petesplace-peter.blogspot.com/search/label/Global Warming Test
+http://onlinelibrary.wiley.com/enhanced/doi/10.1029/2009GL037820
+http://www.nysun.com/article/48447
+http://www.google.com/search?q=reposition global warming as theory
+http://www.atimes.com/atimes/Front_Page/GB25Aa02.html
+http://news.google.com/news?ned=nz&hl=en&ned=nz&ie=UTF-8&ncl=1149313424
+https://en.wikipedia.org/w/index.php?title=Climate_Change_Act_2008&oldid=782398234
+http://variable-variability.blogspot.com/search/label/global temperature
+http://variable-variability.blogspot.com/search/label/sea surface temperature
+http://variable-variability.blogspot.com/search/label/global seismic change
+http://variable-variability.blogspot.com/search/label/climate change
+http://variable-variability.blogspot.com/search/label/non-climatic changes
+http://variable-variability.blogspot.com/search/label/global warming
+http://news.google.com/news?hl=en&tab=wn&ned=us&q=Antarctic sea ice&btnG=Search News
+http://rationalwiki.org/w/index.php?title=Global_warming&oldid=1835387
+http://www.eia.doe.gov/oiaf/1605/ggccebro/chapter1.html
+http://scholar.google.com/scholar?hl=en&q=naval postgraduate school arctic sea ice&as_sdt=1,5&as_ylo=2012&as_vis=1
+http://hallofrecord.blogspot.com/search/label/Global Warming
+http://hallofrecord.blogspot.com/search/label/Climate Change
+http://nsidc.org/cgi-bin/bist/bist.pl?config=seaice_extent_trends
+http://scholar.google.com/scholar?q="sea ice volume"&hl=en&lr=&btnG=Search
+https://books.google.com/books?id=exvuVXd14M0C&q=global warming&source=gbs_word_cloud_r&cad=5
+https://books.google.com/books?id=exvuVXd14M0C&q=climate change&source=gbs_word_cloud_r&cad=5
+https://www.google.com/search?tbo=p&tbm=bks&q=bibliogroup:"The economics of climate change"&source=gbs_metadata_r&cad=6
+http://climateguy.blogspot.ca/search/label/position on climate change
+http://climateguy.blogspot.ca/search/label/climate change paradigm
+https://divineanarchy.wordpress.com/2015/02/08/temperature-adjustments-transform-arctic-climate-history-not-a-lot-of-people-know-that/
+https://enjeuxenergies.wordpress.com/2016/05/23/is-much-of-our-effort-to-combat-global-warming-actually-making-things-worse/
+http://click.icptrack.com/icp/relay.php?r=7494542&msgid=110669&act=DO9V&c=164810&admin=0&destination=http://newsbusters.org/blogs/noel-sheppard/2008/01/19/60-minutes-preempted-sunday-global-warming-hysteria
+http://petesplace-peter.blogspot.com/search/label/Global Warming Lies
+http://stickmanscorral.blogspot.no/search/label/Climate Change
+https://ericaramseypulley.wordpress.com/2016/05/09/823/
+http://www.annualreviews.org/doi/abs/10.1146/annurev.energy.25.1.199?journalCode=energy.2
+https://enjeuxenergies.wordpress.com/2015/10/04/why-is-the-arctic-climate-and-ice-cover-so-variable/
+http://www.arcus.org/search/seaiceoutlook/2013/july
+http://www.theguardian.com/world/2013/aug/06/noaa-report-arctic-ice-climate-change?commentpage=1
+http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00281.1
+https://en.wikipedia.org/w/index.php?title=Sea_level_(disambiguation)&oldid=721317761
+http://alfredsreview.blogspot.com.au/search/label/Climate Change
+http://www.google.com/imgres?imgurl=http://wattsupwiththat.files.wordpress.com/2013/06/co2_temperature_historical.png&imgrefurl=http://wattsupwiththat.com/2013/06/04/dr-vincent-gray-on-historical-carbon-dioxide-levels/&h=562&w=791&tbnid=G_QToNWwnN9AOM:&zoom=1&docid=MRv70mFn6olAJM&ei=5z2HVN7DMMOaNrXSg6gN&tbm=isch&ved=0CCQQMygGMAY&iact=rc&uact=3&dur=1066&page=1&start=0&ndsp=15
+https://en.wikipedia.org/w/index.php?title=Surveys_of_scientists'_views_on_climate_change&oldid=788834242
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/gcb.13704
+http://www.emc.ncep.noaa.gov/gc_wmb/
+https://enjeuxenergies.wordpress.com/2015/11/22/a-buoy-only-sea-surface-temperature-record/
+https://enjeuxenergies.wordpress.com/2015/11/27/a-buoy-only-sea-surface-temperature-record-supports-noaas-adjustments/
+https://en.wikipedia.org/w/index.php?title=Past_sea_level&oldid=778861618
+https://www.google.com.au/search?q=envisat sea level graph&biw=1214&bih=633&tbm=isch&tbo=u&source=univ&sa=X&ei=c7cxVMr3OoiC8gXJnYLwAg&ved=0CCYQsAQ
+http://search.time.com/results.html?N=46&Ntk=NoBody&Nty=1&Ntx=mode+matchallpartial&Ntt=Global Warming
+https://www.onepetro.org/search?q=SPE 98583&peer_reviewed=&published_between=&from_year=&to_year=
+http://www.guardian.co.uk/environment/2009/sep/06/global-warming-natural-disasters-conference?commentpage=8&commentposted=1
+http://holycoast.blogspot.com/search/label/global warming
+http://holycoast.blogspot.com/search/label/climate change
+http://enjeuxenergies.wordpress.com/2014/02/06/world-food-security-in-the-cross-hairs-of-human-caused-climate-change-mangled-jet-stream-ocean-heat-and-melting-sea-ice-to-deliver-500-year-drought-to-ca
+http://onlinelibrary.wiley.com/enhanced/doi/10.1002/2014JC010180
+http://www.nrlmry.navy.mil/sat-bin/display10.cgi?SIZE=full&PHOT=yes&AREA=global/stitched&PROD=day_night_bm&TYPE=ssmi&NAV=global&DISPLAY=Latest&ARCHIVE=Latest&CGI=global.cgi&CURRENT=20110102.0300.multisat.visir.bckgr.Global_Global_bm.DAYNGT.jpg&MOSAIC_SCALE=15
+http://enjeuxenergies.wordpress.com/2014/04/23/does-el-nino-plus-global-warming-equal-global-temperature-records-in-2014-and-2015-thinkprogress/
+http://www.nrlmry.navy.mil/sat-bin/display10.cgi?SIZE=full&PHOT=yes&AREA=global/stitched&PROD=vapor&TYPE=ssmi&NAV=global&DISPLAY=Latest&ARCHIVE=Latest&CGI=global.cgi&CURRENT=20110102.0300.multisat.wv.stitched.Global.x.jpg&MOSAIC_SCALE=15
+http://waterandfoodaward.wordpress.com/2009/01/20/global-climate-change-risks-global-famine/
+http://onlinelibrary.wiley.com/enhanced/doi/10.1002/2014GL059388
+https://books.google.com/books?id=pEW7CgAAQBAJ&pg=PA7&lpg=PA7&dq=50 billion tons CO2e equivalent emissions each year&source=bl&ots=Y8zFkDdzSV&sig=wP27WTHg6tprTTwYgaexckrGyOM&hl=en&sa=X&ved=0CCsQ6AEwAmoVChMI3L3d49flyAIVARw-Ch2rFQZf#v=onepage&q=50 billion tons CO2e equivalent emissions each year&f=false
+http://www.ncdc.noaa.gov/paleo/pubs/ipcc2007/fig68.jpg
+http://www.sciencedirect.com/science/article/pii/S0277379113002862?np=y
+http://arctic-news.blogspot.com/search/label/sea level rise
+http://georgepeterson.me/2012/06/25/nc-sea-level-rise-saga-good-news/
+http://impactofcc.blogspot.com.au/search/label/global sea level
+http://onlinelibrary.wiley.com/enhanced/doi/10.1111/gcb.12662
+http://onlinelibrary.wiley.com/enhanced/doi/10.1002/2013GL058172
+http://onlinelibrary.wiley.com/enhanced/doi/10.1002/2015GL065276
+http://enjeuxenergies.wordpress.com/2014/05/22/global-sea-surface-temperatures-increase-to-extraordinary-1-25-c-anomaly-as-el-nino-tightens-grip-on-pacific-robertscribbler/
+http://www.adelaidenow.com.au/news/south-australia/shacks-face-relocation-as-sea-water-levels-rise/comments-e6frea83-1226553113196
+http://ams.allenpress.com/perlserv/?request=get-pdf&file=i1520-0442-22-1-114.pdf
+http://www.clim-past-discuss.net/9/4893/2013/cpd-9-4893-2013.html
+http://www.google.com/search?q=“the crucible of climate change”&rls=com.microsoft:en-us&ie=UTF-8&oe=UTF-8&startIndex=&startPage=1#hl=en&gs_nf=1&gs_mss=“the crucible of climate change” &pq=“the crucible of climate change”&cp=34&gs_id=1v&xhr=t&q=“the crucible of climate change” "North Sea"&pf=p&sclient=p
+http://arctic-news.blogspot.co.uk/search/label/sea level rise
+http://enjeuxenergies.wordpress.com/2014/05/13/warm-winds-gather-to-invade-the-arctic-summer-sea-ice-melt-and-the-storms-of-2014-robertscribbler/
+http://climatedepot.us1.list-manage.com/track/click?u=87b74a936c723115dfa298cf3&id=7eadac322d&e=ac60e694a3
+http://journals.ametsoc.org/doi/full/10.1175/EI171.1
+http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00524.1
+https://en.wikipedia.org/w/index.php?title=Measurement_of_sea_ice&oldid=772533040
+http://www.guardian.co.uk/environment/blog/2013/jan/09/global-warming-met-office-paused?commentpage=4#block-50ed7557b5798da9a21a2a4f
+http://www.guardian.co.uk/environment/blog/2013/jan/09/global-warming-met-office-paused?commentpage=1
+http://arctic-news.blogspot.com/search/label/sea surface temperatures
+http://arctic-news.blogspot.com/search/label/global warming potential
+http://arctic-news.blogspot.com/search/label/abrupt climate change
+http://arctic-news.blogspot.com/search/label/sea level
+http://impactofcc.blogspot.com.au/search/label/Global Warming Policy Foundation
+http://impactofcc.blogspot.com.au/search/label/rising seas
+http://impactofcc.blogspot.com.au/search/label/climate change
+http://impactofcc.blogspot.com.au/search/label/Garnaut Climate Change Review
+http://impactofcc.blogspot.com.au/search/label/Antony Jay Global Warming Policy Foundation
+http://www.google.com/search?q="climate change" site:maryriverturtle.com&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a#sclient=psy&hl=en&safe=off&client=firefox-a&hs=XGt&rls=org.mozilla:en-US:official&source=hp&q="climate change" site:maryriverturtle.com&aq=&aqi=&aql=&oq=&pbx=1&bav=on.2,or.r_gc.r_pw.&fp=fce33a84b0764b22&biw=1278&bih=735
+http://www.google.com/search?q="global warming" site:maryriverturtle.com&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a
+http://impactofcc.blogspot.com.au/search/label/supposed sea-rise
+http://www.ngdc.noaa.gov/paleo/paleocean.html
+http://cnn.com/climate
