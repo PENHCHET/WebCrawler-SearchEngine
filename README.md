@@ -84,8 +84,7 @@ ________________________________________________________________________________
 * Add all 50,000 documents to an elasticsearch index, using the canonical URL as the document ID for de-duplication, and create a simple HTML page which runs queries against your elasticsearch index.
 
 * Use Calaca to create a  search engine that allow users to enter text queries, and display elasticsearch results to those queries from your index. The result list should contain at minimum the URL to the page you crawled.
-
-[img](Interface/img.png)
+![img](Interface/img.png)
 
 __Problems and Improvements:__ 
 
